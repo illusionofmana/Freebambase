@@ -1,0 +1,9 @@
+# INSTALL #
+
+Aseprite extension file is installed separately from Pribambase blender addon.
+
+- Double click `pribambase.aseprite-extension` file from this folder, or drag it into aseprite window.
+- Confirm your intentions when asked.
+- Restart Aseprite.
+
+Alternatively, it can be installed from `Edit > Preferences > Extensions > Add Extension`

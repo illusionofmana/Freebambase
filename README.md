@@ -1,7 +1,4 @@
 # Pribambase
-
-**NOTE: downloading repo zip will not work in blender due to missing third party libraries. [Get it from project page](https://lampysprites.itch.io/pribambase)**
-
 Pribambase is a helper tool to easen and speed up lowpoly pixel textured, or 2.5D pixelart workflow. It links Aseprite and Blender editors, and handles a lot of repetitive manual operations which otherwise consitute a large and unexciting portion of the process.
 
 * Paint in Aseprite with instant viewport feedback in Blender. No need to save or export files.
@@ -13,9 +10,15 @@ Pribambase is a helper tool to easen and speed up lowpoly pixel textured, or 2.5
 
 ## Links
 
+Via Lampysprites (original creator) NOTE: These links may be dead please refer to the next section for further information
+
 * [How Do I...](https://github.com/lampysprites/pribambase/wiki/How-Do-I...) tutorials and advice.
 * [RSS feed](https://lampysprites.itch.io/pribambase/devlog.rss) to track updates without checking this or that app.
 * [Itchio community](https://lampysprites.itch.io/pribambase/community) to show off your work or ask for help.
+
+* [Archived Page](https://www.illusionofmana.art/Pribambase.html) Simple "how to" and download links
+* [How To's](https://www.youtube.com/watch?v=70wyQhKyxFw) The original "how to" video on Pribambase setup and use
+* [My Experience](https://www.youtube.com/watch?v=6ikqAwPJ8nQ) My breakdown and experience using the program (this may demonstrate bugs no longer existing in the plugin)
 
 ## Source
 

@@ -8,19 +8,28 @@ Pribambase is a helper tool to easen and speed up lowpoly pixel textured, or 2.5
 * Optionally maintain 2.5D spritesheets and animations for Armory game engine, which runs on top of Blender.
 * Experimental node setups for separate layers that allow painting several maps in the same document.
 
-## Links
+## What Happened
+Pribambase's creator abandoned the project due to its scope and time requirements. Please do not harass them for this choice. This is here to continue the work made on the plugin and offer a path forward that will both keep this plugin free and available as well as give it the oppertunity to mature. 
 
+## Installation
+Looking to add Pribambase to your workflow? download your prefered version here!
+* [Pribambase Archive](https://www.illusionofmana.art/Pribambase.html)
+
+## Links
 Via Lampysprites (original creator) NOTE: These links may be dead please refer to the next section for further information
 
 * [How Do I...](https://github.com/lampysprites/pribambase/wiki/How-Do-I...) tutorials and advice.
 * [RSS feed](https://lampysprites.itch.io/pribambase/devlog.rss) to track updates without checking this or that app.
 * [Itchio community](https://lampysprites.itch.io/pribambase/community) to show off your work or ask for help.
 
-Working links:
-*
+Known Working Links:
+
 * [Archived Page](https://www.illusionofmana.art/Pribambase.html) Simple "how to" and download links
 * [How To's](https://www.youtube.com/watch?v=70wyQhKyxFw) The original "how to" video on Pribambase setup and use
 * [My Experience](https://www.youtube.com/watch?v=6ikqAwPJ8nQ) My breakdown and experience using the program (this may demonstrate bugs no longer existing in the plugin)
+
+## Contact
+Please reach out to me via illusionofmana@gmail.com
 
 ## Source
 

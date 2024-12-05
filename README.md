@@ -16,6 +16,8 @@ Via Lampysprites (original creator) NOTE: These links may be dead please refer t
 * [RSS feed](https://lampysprites.itch.io/pribambase/devlog.rss) to track updates without checking this or that app.
 * [Itchio community](https://lampysprites.itch.io/pribambase/community) to show off your work or ask for help.
 
+Working links:
+*
 * [Archived Page](https://www.illusionofmana.art/Pribambase.html) Simple "how to" and download links
 * [How To's](https://www.youtube.com/watch?v=70wyQhKyxFw) The original "how to" video on Pribambase setup and use
 * [My Experience](https://www.youtube.com/watch?v=6ikqAwPJ8nQ) My breakdown and experience using the program (this may demonstrate bugs no longer existing in the plugin)

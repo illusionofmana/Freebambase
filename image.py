@@ -186,9 +186,19 @@ class SB_OT_uv_send(bpy.types.Operator):
                 buffer = bgl.Buffer(bgl.GL_BYTE, nbuf.shape, nbuf)
                 bgl.glReadPixels(0, 0, w, h, bgl.GL_RGBA, bgl.GL_UNSIGNED_BYTE, buffer)
             else:
-                buffer = gpu.types.Buffer('UBYTE', (w, h, 4), nbuf)
-                fb.read_color(0, 0, w, h, 4, 0, 'UBYTE', data=buffer)
-        
+                #FIXCODE:1224-0001 new code! fix issue on Blender 3.4+ with sync stability
+                try:
+                    buffer = gpu.types.Buffer('FLOAT', w * h * 4)  
+                    fb.read_color(0, 0, w, h, 4, 0, 'FLOAT', data=buffer)
+                    
+                    # Convert float buffer to uint8 range
+                    nbuf = np.frombuffer(buffer, dtype=np.float32).copy()
+                    nbuf = (nbuf * 255).astype(np.uint8)
+                    nbuf = nbuf.reshape((h, w, 4))                    
+                    
+                except Exception as e:                    
+                    nbuf = np.zeros((h, w, 4), dtype=np.uint8)  # Fallback empty buffer
+                #FIXCODE:1224-0001 end of fix
         offscreen.free()
 
         # send data

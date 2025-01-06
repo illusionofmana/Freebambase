@@ -14,7 +14,8 @@ Pribambase's creator abandoned the project due to its scope and time requirement
 ## Installation
 Stable Version
 Looking to add Pribambase to your workflow? download your prefered version here!
-* [Pribambase Archive](https://www.illusionofmana.art/Pribambase.html)
+* [Pribambase Archive](https://www.illusionofmana.art/Pribambase.html).
+
 Experimental
 Download the source here as a zip and install it on Blender 3.x as an add-on
 

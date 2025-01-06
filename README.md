@@ -12,12 +12,12 @@ Pribambase is a helper tool to ease and speed up lowpoly pixel textured, or 2.5D
 Pribambase's creator abandoned the project due to its scope and time requirements. Please do not harass them for this choice. This is here to continue the work made on the plugin and offer a path forward that will both keep this plugin free and available as well as give it the opportunity to mature. 
 
 ## Installation
-Stable Version
+Stable Version:
 Looking to add Pribambase to your workflow? download your prefered version here!
 * [Pribambase Archive](https://www.illusionofmana.art/Pribambase.html).
 
-Experimental
-Download the source here as a zip and install it on Blender 3.x as an add-on
+Experimental:
+* Download the source here as a zip and install it on Blender 3.x as an add-on
 
 ## Links
 Via Lampysprites (original creator) NOTE: These links may be dead please refer to the next section for further information
